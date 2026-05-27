@@ -90,4 +90,4 @@ The project includes:
 - Delivery time comparison across markets
 
 # Interactive Visualizations
-[Customer Distribution World Map](interactive/world_map.html)
+[Customer Distribution World Map](world_map.html)
