@@ -90,4 +90,4 @@ The project includes:
 - Delivery time comparison across markets
 
 # World Map Visualization
-
+[Global-Superstore-Dataset-Analysis world_map.png](https://github.com/Sophie3154/Global-Superstore-Dataset-Analysis/blob/main/world_map.png)
