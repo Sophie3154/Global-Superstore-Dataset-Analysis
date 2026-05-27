@@ -89,5 +89,5 @@ The project includes:
 - Pricing vs sales analysis
 - Delivery time comparison across markets
 
-# Interactive Visualizations
-[Customer Distribution World Map](world_map.html)
+# World Map Visualization
+
