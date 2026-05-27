@@ -88,3 +88,6 @@ The project includes:
 - Top 5 profitable products by year
 - Pricing vs sales analysis
 - Delivery time comparison across markets
+
+# Interactive Visualizations
+[Customer Distribution World Map](interactive/world_map.html)
