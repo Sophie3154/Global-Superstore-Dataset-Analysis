@@ -83,7 +83,7 @@ Average delivery times remain relatively consistent across global markets.
 
 The project includes:
 - Revenue and profit analysis by customer frequency
-- Customer distribution world map
+- Customer distribution world map (Interactive visualization)
 - Top-performing countries by sales
 - Top 5 profitable products by year
 - Pricing vs sales analysis
